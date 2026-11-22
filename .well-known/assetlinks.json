@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "io.github.iramazur1991.towytaxi",
+              "sha256_cert_fingerprints": ["6E:2D:4F:47:67:76:91:70:DF:49:E1:98:31:79:D7:A2:60:29:6F:63:99:03:5A:56:3B:C5:90:C2:E7:F0:1B:D8"] }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "io.github.iramazur1991.towydriver",
+              "sha256_cert_fingerprints": ["6E:2D:4F:47:67:76:91:70:DF:49:E1:98:31:79:D7:A2:60:29:6F:63:99:03:5A:56:3B:C5:90:C2:E7:F0:1B:D8"] }
+}]
